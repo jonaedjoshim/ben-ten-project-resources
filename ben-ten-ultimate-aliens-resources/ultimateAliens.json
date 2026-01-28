@@ -1,0 +1,169 @@
+[
+    {
+        "Name": "Water Hazard",
+        "Evolution_ID": "water-hazard",
+        "Image": "",
+        "ActionImage": "",
+        "About": "An Orishan from the Andromeda Galaxy. He features a moisture-resistant armored exoskeleton and shoots high-pressure water.",
+        "First_appearance": {
+            "Season": "1",
+            "Episode_Number": "1",
+            "Episode_Name": "Fame"
+        },
+        "Specialty_Powers": [
+            "Hydrokinesis",
+            "Exoskeleton Armor",
+            "Moisture Absorption"
+        ],
+        "Ultimate_form": false,
+        "Ultimate_Details_Link": ""
+    },
+    {
+        "Name": "Humungousaur",
+        "Evolution_ID": "humungousaur",
+        "Image": "",
+        "ActionImage": "",
+        "About": "A Vaxasaurian known for his incredible strength and size-shifting abilities.",
+        "First_appearance": {
+            "Season": "1",
+            "Episode_Number": "1",
+            "Episode_Name": "Fame"
+        },
+        "Specialty_Powers": [
+            "Super Strength",
+            "Size Alteration",
+            "Tail Swipe"
+        ],
+        "Ultimate_form": true,
+        "Ultimate_Details_Link": ""
+    },
+    {
+        "Name": "Swampfire",
+        "Evolution_ID": "swampfire",
+        "Image": "",
+        "ActionImage": "",
+        "About": "A plant-like Methanosapien that controls fire and plants with rapid regeneration.",
+        "First_appearance": {
+            "Season": "1",
+            "Episode_Number": "1",
+            "Episode_Name": "Fame"
+        },
+        "Specialty_Powers": [
+            "Pyrokinesis",
+            "Chlorokinesis",
+            "Regeneration"
+        ],
+        "Ultimate_form": true,
+        "Ultimate_Details_Link": ""
+    },
+    {
+        "Name": "Big Chill",
+        "Evolution_ID": "big-chill",
+        "Image": "",
+        "ActionImage": "",
+        "About": "A moth-like ghost alien that can freeze objects by passing through them.",
+        "First_appearance": {
+            "Season": "1",
+            "Episode_Number": "4",
+            "Episode_Name": "Video Games"
+        },
+        "Specialty_Powers": [
+            "Cryokinesis",
+            "Intangibility",
+            "Flight"
+        ],
+        "Ultimate_form": true,
+        "Ultimate_Details_Link": ""
+    },
+    {
+        "Name": "Echo Echo",
+        "Evolution_ID": "echo-echo",
+        "Image": "",
+        "ActionImage": "",
+        "About": "A small sonic alien that can duplicate himself and create wall-shattering sound waves.",
+        "First_appearance": {
+            "Season": "1",
+            "Episode_Number": "16",
+            "Episode_Name": "The Forge of Creation"
+        },
+        "Specialty_Powers": [
+            "Sonic Screams",
+            "Self-Replication"
+        ],
+        "Ultimate_form": true,
+        "Ultimate_Details_Link": ""
+    },
+    {
+        "Name": "Cannonbolt",
+        "Evolution_ID": "cannonbolt",
+        "Image": "",
+        "ActionImage": "",
+        "About": "A bulky alien that rolls into a near-indestructible sphere for high-speed impact.",
+        "First_appearance": {
+            "Season": "1",
+            "Episode_Number": "20",
+            "Episode_Name": "The Enemy of My Enemy"
+        },
+        "Specialty_Powers": [
+            "Sphere Transformation",
+            "Armor Plating"
+        ],
+        "Ultimate_form": true,
+        "Ultimate_Details_Link": ""
+    },
+    {
+        "Name": "Spidermonkey",
+        "Evolution_ID": "spidermonkey",
+        "Image": "",
+        "ActionImage": "",
+        "About": "A multi-armed primate that combines monkey agility with spider-webbing skills.",
+        "First_appearance": {
+            "Season": "2",
+            "Episode_Number": "31",
+            "Episode_Name": "The Purge"
+        },
+        "Specialty_Powers": [
+            "Web Shifting",
+            "Wall Climbing",
+            "Agility"
+        ],
+        "Ultimate_form": true,
+        "Ultimate_Details_Link": ""
+    },
+    {
+        "Name": "Wildmutt",
+        "Evolution_ID": "wildmutt",
+        "Image": "",
+        "ActionImage": "",
+        "About": "A sightless Vulpimancer that uses heightened senses to track enemies.",
+        "First_appearance": {
+            "Season": "2",
+            "Episode_Number": "40",
+            "Episode_Name": "Prisoner Number 775 is Missing"
+        },
+        "Specialty_Powers": [
+            "Enhanced Smelling",
+            "Echolocation"
+        ],
+        "Ultimate_form": true,
+        "Ultimate_Details_Link": ""
+    },
+    {
+        "Name": "Way Big",
+        "Evolution_ID": "way-big",
+        "Image": "",
+        "ActionImage": "",
+        "About": "A massive cosmic giant capable of devastating power.",
+        "First_appearance": {
+            "Season": "2",
+            "Episode_Number": "52",
+            "Episode_Name": "The Ultimate Enemy: Part 2"
+        },
+        "Specialty_Powers": [
+            "Cosmic Rays",
+            "Immense Size"
+        ],
+        "Ultimate_form": true,
+        "Ultimate_Details_Link": ""
+    }
+]

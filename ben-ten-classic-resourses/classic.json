@@ -1,0 +1,353 @@
+[
+    {
+        "Name": "Heatblast",
+        "Image": "",
+        "ActionImage": "",
+        "About": "Heatblast is a Pyronite from the star Pyros. He is a magma-based lifeform that can control and generate intense heat and fire from his body.",
+        "First_appearance": {
+            "Season": "1",
+            "Episode_Number": "1",
+            "Episode_Name": "And Then There Were 10"
+        },
+        "Specialty_Powers": [
+            "Pyrokinesis",
+            "Fire Breath",
+            "Flight via Fire Boarding",
+            "Heat Immunity"
+        ],
+        "Ultimate_form": false
+    },
+    {
+        "Name": "Wildmutt",
+        "Image": "",
+        "ActionImage": "",
+        "About": "A Vulpimancer from Vulpin. He has no eyes and uses smell and sound (echolocation) to perceive his surroundings. He is highly athletic.",
+        "First_appearance": {
+            "Season": "1",
+            "Episode_Number": "1",
+            "Episode_Name": "And Then There Were 10"
+        },
+        "Specialty_Powers": [
+            "Enhanced Smelling",
+            "Echolocation",
+            "Sharp Teeth and Claws",
+            "Superhuman Agility"
+        ],
+        "Ultimate_form": false
+    },
+    {
+        "Name": "Diamondhead",
+        "Image": "",
+        "ActionImage": "",
+        "About": "A Petrosapien from Petropia. His body is made of indestructible organic crystals. He can reshape his limbs into weapons.",
+        "First_appearance": {
+            "Season": "1",
+            "Episode_Number": "1",
+            "Episode_Name": "And Then There Were 10"
+        },
+        "Specialty_Powers": [
+            "Crystallokinesis",
+            "Energy Reflection",
+            "Weapon Transformation",
+            "High Durability"
+        ],
+        "Ultimate_form": false
+    },
+    {
+        "Name": "XLR8",
+        "Image": "",
+        "ActionImage": "",
+        "About": "A Kineceleran from Kinet. He is built for speed, capable of reaching over 500 mph. He uses balls on his feet to roll at high velocity.",
+        "First_appearance": {
+            "Season": "1",
+            "Episode_Number": "1",
+            "Episode_Name": "And Then There Were 10"
+        },
+        "Specialty_Powers": [
+            "Extreme Speed",
+            "Sharp Claws",
+            "Accelerated Thinking",
+            "Wall Running"
+        ],
+        "Ultimate_form": false
+    },
+    {
+        "Name": "Grey Matter",
+        "Image": "",
+        "ActionImage": "",
+        "About": "A Galvan from Galvan Prime. Though small in size, he possesses super-intelligence, allowing him to understand any machine or logic.",
+        "First_appearance": {
+            "Season": "1",
+            "Episode_Number": "1",
+            "Episode_Name": "And Then There Were 10"
+        },
+        "Specialty_Powers": [
+            "Super Intelligence",
+            "Small Size for Stealth",
+            "Technical Expertise",
+            "Wall Climbing"
+        ],
+        "Ultimate_form": false
+    },
+    {
+        "Name": "Four Arms",
+        "Image": "",
+        "ActionImage": "",
+        "About": "A Tetramand from Khoros. Ben's go-to alien for physical combat. He is incredibly strong and durable.",
+        "First_appearance": {
+            "Season": "1",
+            "Episode_Number": "2",
+            "Episode_Name": "Washington B.C."
+        },
+        "Specialty_Powers": [
+            "Superhuman Strength",
+            "Enhanced Jumping",
+            "Sonic Clap",
+            "High Endurance"
+        ],
+        "Ultimate_form": false
+    },
+    {
+        "Name": "Stinkfly",
+        "Image": "",
+        "ActionImage": "",
+        "About": "A Lepidopterran from Lepidoptera. An insect-like alien that can fly and shoot sticky, foul-smelling slime from his eyes and mouth.",
+        "First_appearance": {
+            "Season": "1",
+            "Episode_Number": "2",
+            "Episode_Name": "Washington B.C."
+        },
+        "Specialty_Powers": [
+            "Flight",
+            "Slime Projection",
+            "Sharp Tail",
+            "360-degree Vision"
+        ],
+        "Ultimate_form": false
+    },
+    {
+        "Name": "Ripjaws",
+        "Image": "",
+        "ActionImage": "",
+        "About": "A Piscciss Volann from Piscciss. An aquatic alien that excels in underwater combat but needs water to breathe for long periods.",
+        "First_appearance": {
+            "Season": "1",
+            "Episode_Number": "3",
+            "Episode_Name": "The Kraken"
+        },
+        "Specialty_Powers": [
+            "Underwater Breathing",
+            "Powerful Jaws",
+            "Enhanced Swimming Speed",
+            "Sharp Teeth"
+        ],
+        "Ultimate_form": false
+    },
+    {
+        "Name": "Upgrade",
+        "Image": "",
+        "ActionImage": "",
+        "About": "A Galvanic Mechamorph from Galvan B. He is made of liquid metal and can merge with and upgrade any technology.",
+        "First_appearance": {
+            "Season": "1",
+            "Episode_Number": "4",
+            "Episode_Name": "Permanent Retirement"
+        },
+        "Specialty_Powers": [
+            "Technopathy",
+            "Technological Possession",
+            "Optic Beam",
+            "Shape-shifting"
+        ],
+        "Ultimate_form": false
+    },
+    {
+        "Name": "Ghostfreak",
+        "Image": "",
+        "ActionImage": "",
+        "About": "An Ectonurite from Anur Phaetos. He can become invisible and intangible. Later, he becomes a villain after escaping the Omnitrix.",
+        "First_appearance": {
+            "Season": "1",
+            "Episode_Number": "4",
+            "Episode_Name": "Permanent Retirement"
+        },
+        "Specialty_Powers": [
+            "Invisibility",
+            "Intangibility",
+            "Possession",
+            "Tentacle Generation"
+        ],
+        "Ultimate_form": false
+    },
+    {
+        "Name": "Cannonbolt",
+        "Image": "",
+        "ActionImage": "",
+        "About": "An Arburian Pelarota. He can curl into a ball and roll at high speeds, becoming a powerful defensive and offensive weapon.",
+        "Age": "Acquired at age 10",
+        "First_appearance": {
+            "Season": "2",
+            "Episode_Number": "15",
+            "Episode_Name": "The Big Tick"
+        },
+        "Specialty_Powers": [
+            "Sphere Transformation",
+            "High Speed Rolling",
+            "Armor Plating",
+            "Enhanced Durability"
+        ],
+        "Ultimate_form": false
+    },
+    {
+        "Name": "Wildvine",
+        "Image": "",
+        "ActionImage": "",
+        "About": "A Florauna from Flors Verdance. A plant-based alien with stretchable limbs and the ability to grow seeds that act as explosives.",
+        "Age": "Acquired at age 10",
+        "First_appearance": {
+            "Season": "2",
+            "Episode_Number": "20",
+            "Episode_Name": "Camp Fear"
+        },
+        "Specialty_Powers": [
+            "Elasticity",
+            "Seed Bombs",
+            "Plant Merging",
+            "Chlorokinesis"
+        ],
+        "Ultimate_form": false
+    },
+    {
+        "Name": "Blitzwolfer",
+        "Image": "",
+        "ActionImage": "",
+        "About": "A Loboan from Luna Lobo. A werewolf-like alien with a powerful sonic howl that can break solid objects.",
+        "Age": "Acquired at age 10",
+        "First_appearance": {
+            "Season": "3",
+            "Episode_Number": "31",
+            "Episode_Name": "Benwolf"
+        },
+        "Specialty_Powers": [
+            "Sonic Howl",
+            "Superhuman Senses",
+            "Enhanced Agility",
+            "Sharp Claws"
+        ],
+        "Ultimate_form": false
+    },
+    {
+        "Name": "Snare-oh",
+        "Image": "",
+        "ActionImage": "",
+        "About": "A Thep Khufan from Anur Khufos. A mummy-like alien whose body consists of bandages that he can extend or use to trap enemies.",
+        "Age": "Acquired at age 10",
+        "First_appearance": {
+            "Season": "3",
+            "Episode_Number": "37",
+            "Episode_Name": "The Return"
+        },
+        "Specialty_Powers": [
+            "Elastic Bandages",
+            "Regeneration",
+            "Ancient Wisdom",
+            "Enhanced Strength"
+        ],
+        "Ultimate_form": false
+    },
+    {
+        "Name": "Frankenstrike",
+        "Image": "",
+        "ActionImage": "",
+        "About": "A Transylian from Anur Transyl. He resembles Frankenstein's monster and can generate and manipulate electricity via his back-mounted coils.",
+        "Age": "Acquired at age 10",
+        "First_appearance": {
+            "Season": "3",
+            "Episode_Number": "38",
+            "Episode_Name": "Be Afraid of the Dark"
+        },
+        "Specialty_Powers": [
+            "Electrokinesis",
+            "Superhuman Strength",
+            "Magnetic Feet",
+            "Enhanced Intelligence"
+        ],
+        "Ultimate_form": false
+    },
+    {
+        "Name": "Upchuck",
+        "Image": "",
+        "ActionImage": "",
+        "About": "A Gourmand from Peptos XII. He has multiple stomachs and can eat any inorganic matter and spit it back as explosive energy.",
+        "Age": "Acquired at age 10",
+        "First_appearance": {
+            "Season": "3",
+            "Episode_Number": "39",
+            "Episode_Name": "Visitor"
+        },
+        "Specialty_Powers": [
+            "Matter Ingestion",
+            "Energy Spit",
+            "Prehensile Tongue",
+            "Unlimited Stomach Capacity"
+        ],
+        "Ultimate_form": false
+    },
+    {
+        "Name": "Ditto",
+        "Image": "",
+        "ActionImage": "",
+        "About": "A Splixson from Hathor. He can replicate himself into infinite copies. However, if one copy is hurt, all are hurt.",
+        "Age": "Acquired at age 10",
+        "First_appearance": {
+            "Season": "4",
+            "Episode_Number": "41",
+            "Episode_Name": "Divided We Stand"
+        },
+        "Specialty_Powers": [
+            "Self-Replication",
+            "Enhanced Speed",
+            "Collective Awareness",
+            "Digging"
+        ],
+        "Ultimate_form": false
+    },
+    {
+        "Name": "Eye Guy",
+        "Image": "",
+        "ActionImage": "",
+        "About": "An Opticoid from Sightra. His body is covered in eyes, allowing him to shoot various types of energy beams and see in all directions.",
+        "Age": "Acquired at age 10",
+        "First_appearance": {
+            "Season": "Movie",
+            "Episode_Number": "N/A",
+            "Episode_Name": "Ben 10: Secret of the Omnitrix"
+        },
+        "Specialty_Powers": [
+            "Energy Beams",
+            "360-degree Vision",
+            "Elemental Blasts",
+            "Enhanced Hearing"
+        ],
+        "Ultimate_form": false
+    },
+    {
+        "Name": "Way Big",
+        "Image": "",
+        "ActionImage": "",
+        "About": "A To'kustar born from cosmic storms. He is a giant alien, standing over 100 feet tall, with massive power and the ability to shoot cosmic beams.",
+        "Age": "Acquired at age 10",
+        "First_appearance": {
+            "Season": "Movie",
+            "Episode_Number": "N/A",
+            "Episode_Name": "Ben 10: Secret of the Omnitrix"
+        },
+        "Specialty_Powers": [
+            "Size Manipulation (Giant)",
+            "Cosmic Ray",
+            "Extreme Strength",
+            "Durability"
+        ],
+        "Ultimate_form": false
+    }
+]

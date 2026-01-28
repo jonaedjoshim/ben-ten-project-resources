@@ -1,0 +1,326 @@
+[
+    {
+        "Name": "Swampfire",
+        "Image": "",
+        "ActionImage": "",
+        "About": "A Methanosapien from planet Methanos. He is a plant-like alien with fire-based powers and incredible self-regeneration.",
+        "First_appearance": {
+            "Season": "1",
+            "Episode_Number": "1",
+            "Episode_Name": "Ben 10 Returns: Part 1"
+        },
+        "Specialty_Powers": [
+            "Pyrokinesis",
+            "Chlorokinesis",
+            "Methane Gas Projection",
+            "Regeneration"
+        ],
+        "Ultimate_form": false
+    },
+    {
+        "Name": "Echo Echo",
+        "Image": "",
+        "ActionImage": "",
+        "About": "A Sonorosian from Sonorosia. A small, white silicon-based alien that can scream at ultrasonic frequencies and duplicate himself.",
+        "First_appearance": {
+            "Season": "1",
+            "Episode_Number": "2",
+            "Episode_Name": "Ben 10 Returns: Part 2"
+        },
+        "Specialty_Powers": [
+            "Sonic Screams",
+            "Self-Replication",
+            "Echolocation",
+            "Sonic Shield"
+        ],
+        "Ultimate_form": false
+    },
+    {
+        "Name": "Humungousaur",
+        "Image": "",
+        "ActionImage": "",
+        "About": "A Vaxasaurian from Terradino. A massive dinosaur-like alien with immense strength and the ability to increase his size at will.",
+        "First_appearance": {
+            "Season": "1",
+            "Episode_Number": "2",
+            "Episode_Name": "Ben 10 Returns: Part 2"
+        },
+        "Specialty_Powers": [
+            "Superhuman Strength",
+            "Size Alteration",
+            "Enhanced Durability",
+            "Tail Swipe"
+        ],
+        "Ultimate_form": false
+    },
+    {
+        "Name": "Jetray",
+        "Image": "",
+        "ActionImage": "",
+        "About": "An Aerophibian from Peptos XII. A manta ray-like alien that can fly and swim at supersonic speeds.",
+        "First_appearance": {
+            "Season": "1",
+            "Episode_Number": "3",
+            "Episode_Name": "Everybody Talks About the Weather"
+        },
+        "Specialty_Powers": [
+            "Supersonic Flight",
+            "Neuroshock Blasts",
+            "Underwater Breathing",
+            "High Speed"
+        ],
+        "Ultimate_form": false
+    },
+    {
+        "Name": "Big Chill",
+        "Image": "",
+        "ActionImage": "",
+        "About": "A Necrofriggian from Kylmyys. A moth-like ghost alien that can become intangible and freeze anything by breathing cold vapor.",
+        "First_appearance": {
+            "Season": "1",
+            "Episode_Number": "4",
+            "Episode_Name": "Kevin's Big Score"
+        },
+        "Specialty_Powers": [
+            "Cryokinesis",
+            "Intangibility",
+            "Flight",
+            "Freeze Breath"
+        ],
+        "Ultimate_form": false
+    },
+    {
+        "Name": "Chromastone",
+        "Image": "",
+        "ActionImage": "",
+        "About": "A Crystalsapien from Petropia. A living crystal that can absorb energy and fire it back as laser beams.",
+        "First_appearance": {
+            "Season": "1",
+            "Episode_Number": "5",
+            "Episode_Name": "All That Glitters"
+        },
+        "Specialty_Powers": [
+            "Energy Absorption",
+            "Ultraviolet Blasts",
+            "Flight",
+            "Light Generation"
+        ],
+        "Ultimate_form": false
+    },
+    {
+        "Name": "Brainstorm",
+        "Image": "",
+        "ActionImage": "",
+        "About": "A Cerebrocrustacean from Encephalonus IV. A highly intelligent crab-like alien that uses electricity from his brain.",
+        "First_appearance": {
+            "Season": "1",
+            "Episode_Number": "7",
+            "Episode_Name": "Pier Pressure"
+        },
+        "Specialty_Powers": [
+            "Superhuman Intelligence",
+            "Electrokinesis",
+            "Force Fields",
+            "Telekinesis"
+        ],
+        "Ultimate_form": false
+    },
+    {
+        "Name": "Spidermonkey",
+        "Image": "",
+        "ActionImage": "",
+        "About": "An Arachnichimp from Aranhaschimmia. A four-armed monkey that can stick to walls and shoot webs from his tail.",
+        "First_appearance": {
+            "Season": "1",
+            "Episode_Number": "8",
+            "Episode_Name": "What Are Little Girls Made Of?"
+        },
+        "Specialty_Powers": [
+            "Web Shifting",
+            "Wall Climbing",
+            "Enhanced Agility",
+            "Prehensile Tail"
+        ],
+        "Ultimate_form": false
+    },
+    {
+        "Name": "Goop",
+        "Image": "",
+        "ActionImage": "",
+        "About": "A Polymorph from Viscosia. A shape-shifting blob of green acidic slime controlled by an anti-gravity projector.",
+        "First_appearance": {
+            "Season": "1",
+            "Episode_Number": "9",
+            "Episode_Name": "The Gauntlet"
+        },
+        "Specialty_Powers": [
+            "Acidic Slime",
+            "Shape-shifting",
+            "Regeneration",
+            "Elasticity"
+        ],
+        "Ultimate_form": false
+    },
+    {
+        "Name": "Alien X",
+        "Image": "",
+        "ActionImage": "",
+        "About": "A Celestialsapien from the Forge of Creation. The most powerful alien, capable of warping reality.",
+        "First_appearance": {
+            "Season": "1",
+            "Episode_Number": "13",
+            "Episode_Name": "X = Ben + 2"
+        },
+        "Specialty_Powers": [
+            "Omnipotence",
+            "Reality Warping",
+            "Time Manipulation",
+            "Space Survivability"
+        ],
+        "Ultimate_form": false
+    },
+    {
+        "Name": "Cannonbolt",
+        "Image": "",
+        "ActionImage": "",
+        "About": "Returning alien from Classic. He can curl into a ball for high-speed rolling and defense.",
+        "First_appearance": {
+            "Season": "2",
+            "Episode_Number": "15",
+            "Episode_Name": "The Ghost-Out"
+        },
+        "Specialty_Powers": [
+            "Sphere Transformation",
+            "High Speed Rolling",
+            "Armor Plating",
+            "Durability"
+        ],
+        "Ultimate_form": false
+    },
+    {
+        "Name": "Upchuck",
+        "Image": "",
+        "ActionImage": "",
+        "About": "Returning Gourmand alien. He can eat matter and spit it back as explosive energy.",
+        "First_appearance": {
+            "Season": "2",
+            "Episode_Number": "19",
+            "Episode_Name": "The Vengeance of Vilgax: Part 2"
+        },
+        "Specialty_Powers": [
+            "Matter Ingestion",
+            "Energy Spit",
+            "Prehensile Tongue",
+            "Energy Explosions"
+        ],
+        "Ultimate_form": false
+    },
+    {
+        "Name": "Diamondhead",
+        "Image": "",
+        "ActionImage": "",
+        "About": "Returning Petrosapien. Re-formed from Chromastone's remains, now even more powerful.",
+        "First_appearance": {
+            "Season": "3",
+            "Episode_Number": "29",
+            "Episode_Name": "Vengeance of Vilgax: Part 2"
+        },
+        "Specialty_Powers": [
+            "Crystallokinesis",
+            "Weapon Transformation",
+            "Durability",
+            "Energy Reflection"
+        ],
+        "Ultimate_form": false
+    },
+    {
+        "Name": "Lodestar",
+        "Image": "",
+        "ActionImage": "",
+        "About": "A Biosovortian with a floating magnetic head. He has total control over magnetic fields.",
+        "First_appearance": {
+            "Season": "2",
+            "Episode_Number": "26",
+            "Episode_Name": "War of the Worlds: Part 2"
+        },
+        "Specialty_Powers": [
+            "Magnetokinesis",
+            "Magnetic Force Fields",
+            "Regeneration",
+            "Flight"
+        ],
+        "Ultimate_form": false
+    },
+    {
+        "Name": "Way Big",
+        "Image": "",
+        "ActionImage": "",
+        "About": "Returning giant alien. Standing over 100 feet tall, he is used for cosmic threats.",
+        "First_appearance": {
+            "Season": "2",
+            "Episode_Number": "26",
+            "Episode_Name": "War of the Worlds: Part 2"
+        },
+        "Specialty_Powers": [
+            "Cosmic Rays",
+            "Extreme Strength",
+            "Invulnerability",
+            "Size Advantage"
+        ],
+        "Ultimate_form": false
+    },
+    {
+        "Name": "Ghostfreak",
+        "Image": "",
+        "ActionImage": "",
+        "About": "Returning Ectonurite. Used briefly after being scanned again during a prison break.",
+        "First_appearance": {
+            "Season": "3",
+            "Episode_Number": "36",
+            "Episode_Name": "Ghost Town"
+        },
+        "Specialty_Powers": [
+            "Invisibility",
+            "Intangibility",
+            "Possession",
+            "Tentacles"
+        ],
+        "Ultimate_form": false
+    },
+    {
+        "Name": "Rath",
+        "Image": "",
+        "ActionImage": "",
+        "About": "An Appoplexian tiger-like alien known for extreme anger and physical combat mastery.",
+        "First_appearance": {
+            "Season": "3",
+            "Episode_Number": "39",
+            "Episode_Name": "Con of Vendetta"
+        },
+        "Specialty_Powers": [
+            "Superhuman Strength",
+            "Wrist Claws",
+            "Wrestling Mastery",
+            "Durability"
+        ],
+        "Ultimate_form": false
+    },
+    {
+        "Name": "Nanomech",
+        "Image": "",
+        "ActionImage": "",
+        "About": "A micro-alien created by the Omnitrix scanning a Nanochip. He can shrink down to subatomic levels.",
+        "First_appearance": {
+            "Season": "Movie",
+            "Episode_Number": "N/A",
+            "Episode_Name": "Ben 10: Alien Swarm"
+        },
+        "Specialty_Powers": [
+            "Size Reduction",
+            "Bio-electrical Blasts",
+            "Flight",
+            "Technopathy"
+        ],
+        "Ultimate_form": false
+    }
+]

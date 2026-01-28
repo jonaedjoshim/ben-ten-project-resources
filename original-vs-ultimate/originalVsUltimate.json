@@ -1,0 +1,210 @@
+[
+    {
+        "Evolution_ID": "humungousaur",
+        "Original_Form": {
+            "Name": "Humungousaur",
+            "Image": "",
+            "About": "A massive brown dinosaur-like Vaxasaurian with incredible strength and the ability to grow up to 60 feet tall.",
+            "Powers": [
+                "Superhuman Strength",
+                "Size Alteration",
+                "Hardened Skin",
+                "Tail Attacks"
+            ]
+        },
+        "Ultimate_Form": {
+            "Name": "Ultimate Humungousaur",
+            "Image": "",
+            "About": "Now green and armored, he cannot grow in size but his hands transform into Gatling-style maces that fire explosive bone missiles.",
+            "Powers": [
+                "Missile Launching",
+                "Spiked Shell",
+                "Increased Combat Speed",
+                "Mace Hands"
+            ],
+            "Badge": "Evolutionary"
+        }
+    },
+    {
+        "Evolution_ID": "swampfire",
+        "Original_Form": {
+            "Name": "Swampfire",
+            "Image": "",
+            "About": "A living plant with a fire-patterned head, capable of regenerating lost limbs and controlling plant life.",
+            "Powers": [
+                "Fire Blasts",
+                "Chlorokinesis",
+                "Rapid Regeneration",
+                "Methane Gas"
+            ]
+        },
+        "Ultimate_Form": {
+            "Name": "Ultimate Swampfire",
+            "Image": "",
+            "About": "A blue-flamed tree-stump entity. He is much tougher and shoots 'cold fire' which is far more destructive than normal fire.",
+            "Powers": [
+                "Blue Fire Manipulation",
+                "Napalm Bombs",
+                "Enhanced Durability",
+                "Explosive Seeds"
+            ],
+            "Badge": "Evolutionary"
+        }
+    },
+    {
+        "Evolution_ID": "echo-echo",
+        "Original_Form": {
+            "Name": "Echo Echo",
+            "Image": "",
+            "About": "A small, fragile alien that uses sound-based attacks and can duplicate himself infinitely.",
+            "Powers": [
+                "Sonic Scream",
+                "Self-Replication",
+                "Sound Shields",
+                "Echolocation"
+            ]
+        },
+        "Ultimate_Form": {
+            "Name": "Ultimate Echo Echo",
+            "Image": "",
+            "About": "A tall, blue, metal-based lifeform. He can no longer duplicate himself, but he uses high-tech Sonic Disks to devastate enemies.",
+            "Powers": [
+                "Sonic Disks",
+                "Flight",
+                "Sound Manipulation",
+                "Zero Gravity Movement"
+            ],
+            "Badge": "Evolutionary"
+        }
+    },
+    {
+        "Evolution_ID": "big-chill",
+        "Original_Form": {
+            "Name": "Big Chill",
+            "Image": "",
+            "About": "A moth-like alien from Kylmyys. He can freeze anything by breathing cold vapor or becoming intangible.",
+            "Powers": [
+                "Ice Breath",
+                "Intangibility",
+                "Flight",
+                "Freezing Touch"
+            ]
+        },
+        "Ultimate_Form": {
+            "Name": "Ultimate Big Chill",
+            "Image": "",
+            "About": "Known as 'Cold Fire' Big Chill. He is red-colored and creates fire so cold that it freezes enemies faster than normal ice.",
+            "Powers": [
+                "Cold Fire Breath",
+                "Enhanced Intangibility",
+                "Sub-Zero Temperature Control",
+                "Flight"
+            ],
+            "Badge": "Evolutionary"
+        }
+    },
+    {
+        "Evolution_ID": "spidermonkey",
+        "Original_Form": {
+            "Name": "Spidermonkey",
+            "Image": "",
+            "About": "A blue, four-armed monkey that can shoot webs from its tail and stick to any surface.",
+            "Powers": [
+                "Web Shooting",
+                "Wall Climbing",
+                "Enhanced Agility",
+                "Hand-to-Hand Combat"
+            ]
+        },
+        "Ultimate_Form": {
+            "Name": "Ultimate Spidermonkey",
+            "Image": "",
+            "About": "A giant, purple, gorilla-like creature with six spider legs on its back. He is much stronger and shoots webs from his mouth.",
+            "Powers": [
+                "Extreme Strength",
+                "Massive Web Nets",
+                "Wall Crawling (Legs)",
+                "Enhanced Durability"
+            ],
+            "Badge": "Evolutionary"
+        }
+    },
+    {
+        "Evolution_ID": "cannonbolt",
+        "Original_Form": {
+            "Name": "Cannonbolt",
+            "Image": "",
+            "About": "A round alien with organic armor. He can curl into a ball to roll at high speeds and deflect attacks.",
+            "Powers": [
+                "Rolling Attack",
+                "Hardened Shell",
+                "Ricochet Movement",
+                "Impact Resistance"
+            ]
+        },
+        "Ultimate_Form": {
+            "Name": "Ultimate Cannonbolt",
+            "Image": "",
+            "About": "His shell turns light-blue and develops metallic spikes, turning him into a deadly, spiky wrecking ball.",
+            "Powers": [
+                "Spiked Roll Attack",
+                "Metallic Armor",
+                "Faster Spin",
+                "Increased Momentum"
+            ],
+            "Badge": "Evolutionary"
+        }
+    },
+    {
+        "Evolution_ID": "wildmutt",
+        "Original_Form": {
+            "Name": "Wildmutt",
+            "Image": "",
+            "About": "A sightless beast that 'sees' through smell and sound, making him an expert tracker.",
+            "Powers": [
+                "Smell Tracking",
+                "Sonic Sensing",
+                "Sharp Claws",
+                "Animal Instinct"
+            ]
+        },
+        "Ultimate_Form": {
+            "Name": "Ultimate Wildmutt",
+            "Image": "",
+            "About": "He gains the ability to speak, grows a spiked tail, and his senses become powerful enough to detect enemies miles away.",
+            "Powers": [
+                "Spiked Tail Attack",
+                "Speech",
+                "Super-Senses",
+                "Increased Agility"
+            ],
+            "Badge": "Evolutionary"
+        }
+    },
+    {
+        "Evolution_ID": "way-big",
+        "Original_Form": {
+            "Name": "Way Big",
+            "Image": "",
+            "About": "A massive entity born from cosmic storms. He is one of Ben's most powerful transformations.",
+            "Powers": [
+                "Immense Strength",
+                "Cosmic Rays",
+                "Extreme Durability",
+                "Space Survivability"
+            ]
+        },
+        "Ultimate_Form": {
+            "Name": "Ultimate Way Big",
+            "Image": "",
+            "About": "Grows even larger and gains a blue/red aesthetic. His cosmic rays become powerful enough to stop planet-destroying threats.",
+            "Powers": [
+                "Super Cosmic Rays",
+                "Flight",
+                "Massive Strength Boost",
+                "Enhanced Cosmic Protection"
+            ],
+            "Badge": "Evolutionary"
+        }
+    }
+]

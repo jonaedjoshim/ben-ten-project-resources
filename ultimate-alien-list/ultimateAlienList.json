@@ -1,0 +1,154 @@
+[
+    {
+        "Name": "Ultimate Humungousaur",
+        "Image": "",
+        "ActionImage": "",
+        "About": "The evolved form of Humungousaur. He is larger, covered in green bio-organic armor, and can transform his hands into maces that fire explosive bone missiles.",
+        "First_appearance": {
+            "Season": "1",
+            "Episode_Number": "1",
+            "Episode_Name": "Fame"
+        },
+        "Specialty_Powers": [
+            "Bone Missile Launching",
+            "Spiked Mace Hands",
+            "Increased Strength",
+            "Bio-Armor Durability"
+        ],
+        "Ultimate_form": true,
+        "Evolution_ID": "humungousaur"
+    },
+    {
+        "Name": "Ultimate Swampfire",
+        "Image": "",
+        "ActionImage": "",
+        "About": "The evolved form of Swampfire. Looking like a charred tree stump, he shoots blue 'cold fire' which is significantly more intense than normal flames.",
+        "First_appearance": {
+            "Season": "1",
+            "Episode_Number": "1",
+            "Episode_Name": "Fame"
+        },
+        "Specialty_Powers": [
+            "Blue Pyrokinesis",
+            "Napalm Bombs",
+            "Super Regeneration",
+            "Explosive Seeds"
+        ],
+        "Ultimate_form": true,
+        "Evolution_ID": "swampfire"
+    },
+    {
+        "Name": "Ultimate Big Chill",
+        "Image": "",
+        "ActionImage": "",
+        "About": "The evolved form of Big Chill. Now red and fiery in appearance, he breathes ice so cold it burns, freezing enemies instantly on contact.",
+        "First_appearance": {
+            "Season": "1",
+            "Episode_Number": "4",
+            "Episode_Name": "Video Games"
+        },
+        "Specialty_Powers": [
+            "Cold Fire Breath",
+            "Enhanced Intangibility",
+            "Ice Manipulation",
+            "Flight"
+        ],
+        "Ultimate_form": true,
+        "Evolution_ID": "big-chill"
+    },
+    {
+        "Name": "Ultimate Echo Echo",
+        "Image": "",
+        "ActionImage": "",
+        "About": "The evolved form of Echo Echo. He is taller, blue, and uses lethal Sonic Disks to launch devastating sound attacks instead of duplicating himself.",
+        "First_appearance": {
+            "Season": "1",
+            "Episode_Number": "16",
+            "Episode_Name": "The Forge of Creation"
+        },
+        "Specialty_Powers": [
+            "Sonic Disks",
+            "Sonic Screams",
+            "Flight",
+            "Sonic Containment Fields"
+        ],
+        "Ultimate_form": true,
+        "Evolution_ID": "echo-echo"
+    },
+    {
+        "Name": "Ultimate Cannonbolt",
+        "Image": "",
+        "ActionImage": "",
+        "About": "The evolved form of Cannonbolt. His shell turns light-blue and grows metallic spikes, making his rolling attacks much more lethal and defensive.",
+        "First_appearance": {
+            "Season": "1",
+            "Episode_Number": "20",
+            "Episode_Name": "The Enemy of My Enemy"
+        },
+        "Specialty_Powers": [
+            "Spiked Shell Roll",
+            "Metallic Armor",
+            "Increased Momentum",
+            "Higher Durability"
+        ],
+        "Ultimate_form": true,
+        "Evolution_ID": "cannonbolt"
+    },
+    {
+        "Name": "Ultimate Spidermonkey",
+        "Image": "",
+        "ActionImage": "",
+        "About": "The evolved form of Spidermonkey. He becomes a massive, purple gorilla-like creature with six spider legs and shoots webs from his mouth.",
+        "First_appearance": {
+            "Season": "2",
+            "Episode_Number": "31",
+            "Episode_Name": "The Purge"
+        },
+        "Specialty_Powers": [
+            "Massive Strength",
+            "Giant Web Nets",
+            "Spider-Leg Combat",
+            "Enhanced Agility"
+        ],
+        "Ultimate_form": true,
+        "Evolution_ID": "spidermonkey"
+    },
+    {
+        "Name": "Ultimate Wildmutt",
+        "Image": "",
+        "ActionImage": "",
+        "About": "The evolved form of Wildmutt. He grows a spiked tail, gains a reddish-maroon fur color, and most importantly, gains the ability to speak.",
+        "First_appearance": {
+            "Season": "2",
+            "Episode_Number": "40",
+            "Episode_Name": "Prisoner Number 775 is Missing"
+        },
+        "Specialty_Powers": [
+            "Spiked Tail Attack",
+            "Speech",
+            "Super-Senses",
+            "Increased Ferocity"
+        ],
+        "Ultimate_form": true,
+        "Evolution_ID": "wildmutt"
+    },
+    {
+        "Name": "Ultimate Way Big",
+        "Image": "",
+        "ActionImage": "",
+        "About": "The evolved form of Way Big. He grows to an even more gargantuan size and gains the ability to fly and fire incredibly powerful cosmic rays.",
+        "First_appearance": {
+            "Season": "2",
+            "Episode_Number": "52",
+            "Episode_Name": "The Ultimate Enemy: Part 2"
+        },
+        "Specialty_Powers": [
+            "Flight",
+            "Super Cosmic Rays",
+            "Unmatched Strength",
+            "Planetary Durability"
+        ],
+        "Ultimate_form": true,
+        "Evolution_ID": "way-big"
+    }
+]
